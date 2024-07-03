@@ -1,0 +1,681 @@
+settings:
+  - Abandoned factory
+  - Alien planet
+  - Alien spacecraft
+  - Ancient Egypt
+  - Ancient Rome
+  - Arctic
+  - Arctic research station
+  - Asylum
+  - Atlantis
+  - Bioluminescent cave
+  - City of the future
+  - Cybercity
+  - Cyberpunk
+  - Dark forest
+  - Desert
+  - Deserted island
+  - Dreamland
+  - Dystopian city
+  - Enchanted castle
+  - Enchanted forest
+  - Fairy tale village
+  - Fantasy
+  - Floating islands
+  - Futuristic
+  - Galactic empire
+  - Gothic mansion
+  - Haunted house
+  - High-tech lab
+  - Hidden valley
+  - Ice palace
+  - Jungle
+  - Lost civilization
+  - Magic kingdom
+  - Medieval
+  - Moon base
+  - Pirate ship
+  - Post-apocalyptic
+  - Renaissance
+  - Robot city
+  - Secret garden
+  - Space
+  - Steampunk
+  - Time-travel hub
+  - Tropical paradise
+  - Underwater
+  - Underworld
+  - Urban
+  - Victorian era
+  - Viking village
+  - Virtual reality world
+  - Wild West
+  - Zombie apocalypse
+characters:
+  - Adventurer
+  - Alien
+  - Android
+  - Angel
+  - Archer
+  - Assassin
+  - Barbarian
+  - Bard
+  - Cyborg
+  - Demon
+  - Detective
+  - Druid
+  - Dwarf
+  - Elf
+  - Fairy
+  - Giant
+  - Gladiator
+  - Goblin
+  - Healer
+  - Hunter
+  - Inventor
+  - Knight
+  - Mage
+  - Magician
+  - Mermaid
+  - Mutant
+  - Necromancer
+  - Ninja
+  - Orc
+  - Paladin
+  - Pirate
+  - Prince
+  - Princess
+  - Robot
+  - Samurai
+  - Scientist
+  - Sorcerer
+  - Space Marine
+  - Spy
+  - Superhero
+  - Time traveler
+  - Troll
+  - Vampire
+  - Villain
+  - Warrior
+  - Werewolf
+  - Wizard
+  - Witch
+  - Zombie
+activities:
+  - Alchemy
+  - Archery
+  - Bargaining
+  - Building
+  - Casting a spell
+  - Climbing
+  - Cooking
+  - Crafting
+  - Dancing
+  - Defending
+  - Discovering
+  - Diving
+  - Drawing
+  - Driving
+  - Enchanting
+  - Exploring
+  - Farming
+  - Fishing
+  - Fighting
+  - Flying
+  - Foraging
+  - Forging
+  - Gathering
+  - Guarding
+  - Hacking
+  - Healing
+  - Hiking
+  - Hunting
+  - Inventing
+  - Investigating
+  - Jumping
+  - Leading
+  - Mining
+  - Navigating
+  - Painting
+  - Performing
+  - Piloting
+  - Researching
+  - Rescuing
+  - Running
+  - Sailing
+  - Singing
+  - Sneaking
+  - Studying
+  - Swimming
+  - Training
+  - Traveling
+  - Woodworking
+  - Writing
+environments:
+  - Abandoned city
+  - Arctic tundra
+  - Bamboo forest
+  - Beach
+  - Cave
+  - City
+  - Coral reef
+  - Crater
+  - Crypt
+  - Data center
+  - Desert
+  - Enchanted forest
+  - Floating island
+  - Forest
+  - Glacier
+  - Grassland
+  - Haunted forest
+  - Hot springs
+  - Ice cave
+  - Island
+  - Jungle
+  - Lava field
+  - Library
+  - Lost city
+  - Mysterious temple
+  - Mountain range
+  - Oasis
+  - Ocean
+  - Palace
+  - Park
+  - Pirate cove
+  - Plains
+  - Rainforest
+  - Ruins
+  - Sacred grove
+  - Savannah
+  - Secret lab
+  - Snowy mountain
+  - Space station
+  - Submarine
+  - Swamp
+  - Underwater city
+  - Urban sprawl
+  - Valley
+  - Village
+  - Volcano
+  - Wasteland
+  - Waterfall
+  - Wind farm
+artistic_styles:
+  - Abstract
+  - Art Deco
+  - Art Nouveau
+  - Baroque
+  - Basquiat
+  - Bauhaus
+  - Black and White
+  - Cartoon
+  - Celtic
+  - Chiaroscuro
+  - Chinese Ink
+  - Classicism
+  - Collage
+  - Comic Book
+  - Cubism
+  - Da Vinci
+  - Dadaism
+  - Dali
+  - Digital Art
+  - Expressionism
+  - Fauvism
+  - Futurism
+  - Gothic
+  - Graffiti
+  - Impressionism
+  - Japanese Woodblock
+  - Leonardo
+  - Low Poly
+  - Mannerism
+  - Matisse
+  - Medieval
+  - Minimalism
+  - Monet
+  - Neoclassicism
+  - O'Keeffe
+  - Picasso
+  - Pop Art
+  - Post-Impressionism
+  - Realism
+  - Rembrandt
+  - Renaissance
+  - Rococo
+  - Romanticism
+  - Surrealism
+  - Symbolism
+  - Ukiyo-e
+  - Van Gogh
+  - Victorian
+  - Vintage
+  - Warhol
+movies:
+  - 2001 A Space Odyssey
+  - A Clockwork Orange
+  - A Nightmare on Elm Street
+  - A Streetcar Named Desire
+  - Alien
+  - American Beauty
+  - Apocalypse Now
+  - Back to the Future
+  - Ben-Hur
+  - Blade Runner
+  - Bonnie and Clyde
+  - Braveheart
+  - Casablanca
+  - Chinatown
+  - Citizen Kane
+  - Close Encounters of the Third Kind
+  - Cool Hand Luke
+  - Die Hard
+  - Dirty Dancing
+  - Doctor Zhivago
+  - E.T. the Extra-Terrestrial
+  - Fight Club
+  - Forrest Gump
+  - Full Metal Jacket
+  - Ghostbusters
+  - Gladiator
+  - Gone with the Wind
+  - Goodfellas
+  - Halloween
+  - Harry Potter
+  - Inception
+  - Indiana Jones and the Raiders of the Lost Ark
+  - It's a Wonderful Life
+  - Jaws
+  - Jurassic Park
+  - Lawrence of Arabia
+  - Lord of the Rings
+  - Mad Max
+  - Mary Poppins
+  - Monty Python and the Holy Grail
+  - Moulin Rouge!
+  - North by Northwest
+  - One Flew Over the Cuckoo's Nest
+  - Pulp Fiction
+  - Psycho
+  - Pulp Fiction
+  - Raiders of the Lost Ark
+  - Raging Bull
+  - Rear Window
+  - Reservoir Dogs
+  - Rocky
+  - Rocky Horror Picture Show
+  - Saving Private Ryan
+  - Scarface
+  - Schindler's List
+  - Seven Samurai
+  - Singin' in the Rain
+  - Some Like It Hot
+  - Spartacus
+  - Star Wars
+  - Taxi Driver
+  - Terminator 2 Judgment Day
+  - The African Queen
+  - The Avengers
+  - The Big Lebowski
+  - The Breakfast Club
+  - The Bridge on the River Kwai
+  - The Dark Knight
+  - The Deer Hunter
+  - The Empire Strikes Back
+  - The Exorcist
+  - The French Connection
+  - The Godfather
+  - The Godfather Part II
+  - The Graduate
+  - The Great Dictator
+  - The Green Mile
+  - The Goonies
+  - The Lion King
+  - The Matrix
+  - The Shawshank Redemption
+  - The Shining
+  - The Silence of the Lambs
+  - The Sound of Music
+  - The Terminator
+  - The Thing
+  - The Usual Suspects
+  - The Wizard of Oz
+  - Titanic
+  - To Kill a Mockingbird
+  - Top Gun
+  - Toy Story
+  - Trainspotting
+  - Twelve Angry Men
+  - Vertigo
+  - West Side Story
+  - When Harry Met Sally
+  - Willy Wonka & the Chocolate Factory
+  - Witness
+  - Wizard of Oz
+celebrities:
+  - Adele
+  - Al Pacino
+  - Alec Baldwin
+  - Angelina Jolie
+  - Anne Hathaway
+  - Arnold Schwarzenegger
+  - Babe Ruth
+  - Barack Obama
+  - Beyonce
+  - Bill Gates
+  - Bill Murray
+  - Brad Pitt
+  - Britney Spears
+  - Bruce Willis
+  - Cameron Diaz
+  - Charlie Chaplin
+  - Charlize Theron
+  - Chris Hemsworth
+  - Clint Eastwood
+  - Denzel Washington
+  - Donald Trump
+  - Drake
+  - Dwayne Johnson
+  - Eddie Murphy
+  - Ellen DeGeneres
+  - Elton John
+  - Emma Stone
+  - Emma Watson
+  - George Clooney
+  - Harrison Ford
+  - Hugh Jackman
+  - Jackie Chan
+  - James Cameron
+  - Jamie Foxx
+  - Jennifer Aniston
+  - Jennifer Lawrence
+  - Jim Carrey
+  - John Travolta
+  - Johnny Depp
+  - Julia Roberts
+  - Kanye West
+  - Keanu Reeves
+  - Kevin Hart
+  - Kim Kardashian
+  - Kobe Bryant
+  - Lady Gaga
+  - Leonardo DiCaprio
+  - Madonna
+  - Meryl Streep
+  - Michael B. Jordan
+  - Michael Jackson
+  - Michael Jordan
+  - Michael Phelps
+  - Mike Tyson
+  - Morgan Freeman
+  - Natalie Portman
+  - Nicolas Cage
+  - Oprah Winfrey
+  - Orlando Bloom
+  - Paul McCartney
+  - Quentin Tarantino
+  - Rami Malek
+  - Rihanna
+  - Robert De Niro
+  - Robert Downey Jr.
+  - Robin Williams
+  - Ryan Gosling
+  - Ryan Reynolds
+  - Sandra Bullock
+  - Scarlett Johansson
+  - Shakira
+  - Shawn Mendes
+  - Simon Cowell
+  - Snoop Dogg
+  - Sofia Vergara
+  - Steven Spielberg
+  - Sylvester Stallone
+  - Taylor Swift
+  - Tom Cruise
+  - Tom Hanks
+  - Tom Hardy
+  - Uma Thurman
+  - Vin Diesel
+  - Whitney Houston
+  - Will Ferrell
+  - Will Smith
+  - Winona Ryder
+  - Woody Allen
+  - Woody Harrelson
+  - Zac Efron
+  - Zendaya
+animals:
+  - Alligator
+  - Alpaca
+  - Antelope
+  - Armadillo
+  - Baboon
+  - Badger
+  - Bat
+  - Bear
+  - Beaver
+  - Bee
+  - Bison
+  - Camel
+  - Cheetah
+  - Chimpanzee
+  - Cobra
+  - Crocodile
+  - Deer
+  - Dog
+  - Dolphin
+  - Donkey
+  - Eagle
+  - Elephant
+  - Falcon
+  - Flamingo
+  - Fox
+  - Frog
+  - Giraffe
+  - Gorilla
+  - Hamster
+  - Hedgehog
+  - Hippopotamus
+  - Horse
+  - Hyena
+  - Jaguar
+  - Kangaroo
+  - Koala
+  - Leopard
+  - Lion
+  - Lizard
+  - Lobster
+  - Llama
+  - Lynx
+  - Meerkat
+  - Monkey
+  - Moose
+  - Narwhal
+  - Octopus
+  - Orangutan
+  - Ostrich
+  - Otter
+  - Owl
+  - Panda
+  - Panther
+  - Parrot
+  - Peacock
+  - Penguin
+  - Pig
+  - Polar Bear
+  - Porcupine
+  - Possum
+  - Rabbit
+  - Raccoon
+  - Ram
+  - Rat
+  - Reindeer
+  - Rhinoceros
+  - Salamander
+  - Salmon
+  - Scorpion
+  - Seal
+  - Shark
+  - Sheep
+  - Skunk
+  - Sloth
+  - Snail
+  - Snake
+  - Sparrow
+  - Spider
+  - Squirrel
+  - Starfish
+  - Swan
+  - Tiger
+  - Toad
+  - Tortoise
+  - Toucan
+  - Turtle
+  - Walrus
+  - Whale
+  - Wolf
+  - Wombat
+  - Woodpecker
+  - Yak
+  - Zebra
+historic_events:
+  - The American Civil War
+  - The American Revolution
+  - The Arab Spring
+  - The Assassination of Archduke Franz Ferdinand
+  - The Assassination of JFK
+  - The Battle of Gettysburg
+  - The Black Death
+  - The Boston Tea Party
+  - The Cuban Missile Crisis
+  - The Civil Rights Movement
+  - The Cold War
+  - The Columbian Exchange
+  - The Crusades
+  - The Discovery of America
+  - The Dissolution of the Soviet Union
+  - The Fall of Constantinople
+  - The Fall of the Berlin Wall
+  - The French Revolution
+  - The Great Depression
+  - The Great Fire of London
+  - The Gutenberg Printing Press
+  - The Hellenistic Period
+  - The Hiroshima and Nagasaki Bombings
+  - The Holocaust
+  - The Industrial Revolution
+  - The Invention of the Internet
+  - The Magna Carta
+  - The Manhattan Project
+  - The March on Washington
+  - The Meiji Restoration
+  - The Moon Landing
+  - The Norman Conquest
+  - The Opium Wars
+  - The Protestant Reformation
+  - The Renaissance
+  - The Russian Revolution
+  - The Salem Witch Trials
+  - The Sinking of the Titanic
+  - The Spanish-American War
+  - The Storming of the Bastille
+  - The Suffragette Movement
+  - The Treaty of Versailles
+  - The Vietnam War
+  - The Watergate Scandal
+  - The Wright Brothers' First Flight
+  - The Yalta Conference
+  - World War I
+  - World War II
+  - Y2K
+styles:
+  - 16bit
+  - 3D modeling
+  - 8bit
+  - Abstract
+  - Anime
+  - Art Deco
+  - Art Nouveau
+  - Baroque
+  - Bauhaus
+  - Black and white
+  - Cartoon
+  - Chalk
+  - Charcoal
+  - Chibi
+  - Classical
+  - Collage
+  - Comic book
+  - Concept art
+  - Contemporary
+  - Cubism
+  - Cyberpunk
+  - Dada
+  - Digital painting
+  - Doodle
+  - Dotwork
+  - Expressionism
+  - Fantasy
+  - Fauvism
+  - Film noir
+  - Flat design
+  - Futuristic
+  - Geometric
+  - Gothic
+  - Graffiti
+  - Hyperrealistic
+  - Impressionism
+  - Ink wash
+  - Isometric
+  - Japanese woodblock
+  - Kawaii
+  - Lego
+  - Low poly
+  - Mannerism
+  - Manga
+  - Medieval
+  - Memphis
+  - Minimalist
+  - Modernism
+  - Monochromatic
+  - Mosaic
+  - Neoclassical
+  - Neo-gothic
+  - Oil painting
+  - Op art
+  - Origami
+  - Pixel art
+  - Pointillism
+  - Pop art
+  - Post-impressionism
+  - Psychedelic
+  - Realism
+  - Realistic
+  - Renaissance
+  - Retro
+  - Rococo
+  - Romanticism
+  - Sci-fi
+  - Sketch
+  - Space art
+  - Steampunk
+  - Street art
+  - Stained glass
+  - Stylized
+  - Surrealism
+  - Symbolism
+  - Tattoo
+  - Techno
+  - Traditional
+  - Ukiyo-e
+  - Urban
+  - Vaporwave
+  - Vector
+  - Vintage
+  - Vaporwave
+  - Video game art
+  - Watercolor
+  - Woodcut
+  - Yarn bombing
+
